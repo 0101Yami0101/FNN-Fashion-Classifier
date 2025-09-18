@@ -22,21 +22,10 @@ This project implements a Feedforward Neural Network (FNN) to classify images fr
 	python main.py
 	```
 
-## Project Structure
-- `main.py` - Entry point
-- `data.py` - Data loading utilities
-- `model.py` - Model definition
-- `train.py` - Training loop
-- `evaluate.py` - Evaluation and metrics
-- `visualize.py` - Visualization tools
-- `utils.py` - Helper functions
-- `models/` - Saved models
-- `outputs/` - Plots and results
 
 ## Goals
 - Understand how an FNN learns on images
 - Practice training, regularization, and optimizer effects
 - Visualize and interpret model behavior
 
-## License
 MIT
