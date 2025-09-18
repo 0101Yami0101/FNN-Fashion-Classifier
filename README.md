@@ -27,5 +27,3 @@ This project implements a Feedforward Neural Network (FNN) to classify images fr
 - Understand how an FNN learns on images
 - Practice training, regularization, and optimizer effects
 - Visualize and interpret model behavior
-
-MIT
