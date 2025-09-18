@@ -1,0 +1,13 @@
+Project overview & goals
+
+    Goals
+        Understand how an FNN learns on images (flattening, weights, activations).
+        Learn training loop, loss, optimizer, scheduler, early stopping.
+        Practice regularization (dropout, L2), and optimizer effects.
+        Visualize what hidden units / first-layer weights look like.
+        Compare metrics (train vs val) and inspect confusion matrix.
+
+    Expected outcome
+        A working FNN trained on Fashion-MNIST (re-usable code).
+        Plots for training curves and confusion matrix.
+        Practical understanding of FNN limits on image tasks.
